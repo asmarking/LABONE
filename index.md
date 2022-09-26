@@ -30,7 +30,7 @@ The best California themeparks in order (top being the best bottom worse) IMOP :
 - [x] Ye  
 - [ ] Drizzy  
 
-[a relative link](other-file.md)
+[check out this other page](other-file.md)
 
 # Congrats you made it to the end of the page
 
