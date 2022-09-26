@@ -25,9 +25,13 @@ The best California themeparks in order (top being the best bottom worse) IMOP :
 - Knotts Berry Farm  
 - California Great America  
 - Six Flags Discover Kingdom  
-[click here to go the top](#hi-there--my-name-is-austin)
 
 ## Who is better, kanye or drake ?   
 - [x] Ye  
 - [ ] Drizzy  
+
 [a relative link](other-file.md)
+
+# Congrats you made it to the end of the page
+
+[click here to go the top](#hi-there--my-name-is-austin)
