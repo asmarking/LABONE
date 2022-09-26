@@ -1,14 +1,14 @@
 
 ### Hi there 👋, my name is Austin  
  
-I am a senior studying math and computer science at the **University of     California San Diego**. I really enjoy learning languages and frameworks like React.    
+I am a senior studying math and computer science at the **University of     California San Diego**. I really enjoy learning languages and frameworks like *React*.    
 
 Skills:   
-1. REACT    
-2. JS    
-3. JAVA    
-4. C++    
-5. C    
+1. *REACT*    
+2. *JS*    
+3. *JAVA*    
+4. *C++*    
+5. *C*    
 [![Austins GitHub stats](https://github-readme-stats.vercel.app/api?username=asmarking)](https://github.com/asmarking/github-readme-stats)  
 
 My favorite language is c++, and my least favorite is java. I would be fine   with never typing `public static void main(String[] args)` again.     
