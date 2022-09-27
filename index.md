@@ -28,10 +28,11 @@ The best California themeparks in order (top being the best bottom worse) IMOP :
 
 ## Who is better, kanye or drake ?   
 - [x] Ye  
-- [ ] Drizzy  
+- [ ] Drizzy   
 
+## Sick of this page ?
 [check out this other page](other-file.md)
 
 # Congrats you made it to the end of the page
 
-[click here to go the top](#hi-there--my-name-is-austin)
+[click here to go to the top](#hi-there--my-name-is-austin)
